@@ -1,4 +1,4 @@
 resource aws_instance "myec2" {
-  ami           = "ami-0e306788ff2473ccb"
+  ami           = "ami-04b1ddd35fd71475a"
   instance_type = "t2.large"
 }
